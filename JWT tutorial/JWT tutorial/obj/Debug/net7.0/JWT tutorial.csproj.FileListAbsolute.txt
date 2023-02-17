@@ -32,3 +32,8 @@ D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial
 D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.genruntimeconfig.cache
 D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\ref\JWT tutorial.dll
 D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\BCrypt.Net-Next.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
