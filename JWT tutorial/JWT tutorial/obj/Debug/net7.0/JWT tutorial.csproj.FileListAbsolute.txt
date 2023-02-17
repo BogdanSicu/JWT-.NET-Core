@@ -1,0 +1,33 @@
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\appsettings.Development.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\appsettings.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\JWT tutorial.exe
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\JWT tutorial.deps.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\JWT tutorial.runtimeconfig.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\JWT tutorial.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\JWT tutorial.pdb
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.csproj.AssemblyReference.cache
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.AssemblyInfoInputs.cache
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.AssemblyInfo.cs
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.csproj.CoreCompileInputs.cache
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.MvcApplicationPartsAssemblyInfo.cs
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.MvcApplicationPartsAssemblyInfo.cache
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets\msbuild.JWT tutorial.Microsoft.AspNetCore.StaticWebAssets.props
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets\msbuild.build.JWT tutorial.props
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.JWT tutorial.props
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.JWT tutorial.props
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets.pack.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets.build.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\staticwebassets.development.json
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\scopedcss\bundle\JWT tutorial.styles.css
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.csproj.CopyComplete
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\refint\JWT tutorial.dll
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.pdb
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\JWT tutorial.genruntimeconfig.cache
+D:\proiect\JWT-.NET-Core\JWT tutorial\JWT tutorial\obj\Debug\net7.0\ref\JWT tutorial.dll
